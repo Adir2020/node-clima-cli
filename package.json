@@ -11,7 +11,7 @@
     "src"
   ],
   "keywords": [],
-  "author": "Henrique Schreiner",
+  "author": "adir",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.20.0",
